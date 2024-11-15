@@ -23,6 +23,8 @@
       - BGP Protocol
 
 - 💞️ I’m looking to collaborate on making a real peer-to-peer ride sharing platform as that's my main proirity yet!! Though open to any projects
+- Working as FOSS developer fulltime since I'm unemployed plus I love to work on FOSS projects, makes me more curious on finding various projects and contribute.
+- Why? Don't like the office politics, wanna create products, learn more and help!!
 
 - 📫 How to reach me => (github.com/nis-ship-it)
 
