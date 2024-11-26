@@ -26,7 +26,7 @@
 - Working as FOSS developer fulltime since I'm unemployed plus I love to work on FOSS projects, makes me more curious on finding various projects and contribute.
 - Why? Don't like the office politics, wanna create products, learn more and help!!
 
-- 📫 How to reach me => (github.com/nis-ship-it)
+- 📫 How to reach me => nish71427@gmail.com
 
 <!---
 nis-ship-it/nis-ship-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
